@@ -43,6 +43,9 @@ dependencies:
   dotted_border: any
   step_progress_indicator: any
   intl: ^0.17.0
+  qr_code_scanner: any
+  flutter_barcode_scanner:
+  imagebutton:
 
 
 
